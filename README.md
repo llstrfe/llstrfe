@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @llstrfe.
+- 👋 Hi, I’m @str.
 - 👀 I’m interested in Java and Python.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
